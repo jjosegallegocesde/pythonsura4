@@ -1,2 +1,3 @@
-# pythonsura4
-condicionales y ciclos con python
+# CICLOS Y CONDICIONES CON PYTHON
+
+## Programado por: Juan José gallego Mesa
